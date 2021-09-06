@@ -1,4 +1,4 @@
-# mesh-b204d66c
+# mesh-technical-test
 This repository contains templates for a Django 3.2 project, and a React 17 app.
 
 You will require the following to install the project dependencies and create a working development environment.
@@ -26,7 +26,7 @@ You should be able to spin up the local dev server as follows (using either `yar
 
 ```
 cd react_app
-yarn start
+yarn start / npm start
 ```
 
 You should be able to see the following in your browser:
